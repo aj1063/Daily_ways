@@ -1,4 +1,4 @@
-<----------------Nearest Greatest to lest brute force---------->
+<----------------Nearest Greatest to left brute force---------->
 
 
 #include<bits/stdc++.h>
