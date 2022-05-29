@@ -1,4 +1,4 @@
-<--------Stock span Problem------>
+<--------Stock span Problem with the help of Nearest Greatest element in left------>
 
 #include<bits/stdc++.h>
 
